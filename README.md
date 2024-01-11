@@ -2,7 +2,7 @@
 - 👀 I’m interested in networking with like-minded people
 - 🌱 I’m currently learning Applied Artificial Intelligence.
 - 💞️ I’m looking to collaborate on AI Projects to build using GitHub.
-- 📫 How to reach me: oxayavongsa@asandiego.edu
+- 📫 How to reach me: oxayavongsa@sandiego.edu
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love creating things.
 
