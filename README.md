@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on AI Projects to build using GitHub.
 - 📫 How to reach me: oxayavongsa@sandiego.edu
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love creating things.
+- ⚡ Fun fact: I love constantly learning new things.
 
 <!---
 oxayavongsa/oxayavongsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
