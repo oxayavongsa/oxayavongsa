@@ -12,6 +12,13 @@ I build AI agents and machine-learning systems that do real operational work: re
 
 </div>
 
+### 🚧 Building now
+
+| Project | Highlights |
+|---|---|
+| **SwitchLingo** · [live demo](https://msthai-switchlingo.hf.space) | AI video translation: subtitles + voice-over that keeps the speaker's voice, 400+ languages (MADLAD-400), community-corrected translations, focus on underserved languages like Lao, Isan and Hmong |
+| **THRESHOLD: Night Shift** | Mixed-reality horror game for Meta Quest 3, built with an automated freeze-gate test so no release ships with a stall |
+
 ### 🤖 AI agents & automation
 
 | Project | Highlights |
