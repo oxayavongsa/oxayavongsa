@@ -17,6 +17,7 @@ I build AI agents and machine-learning systems that do real operational work: re
 | Project | Highlights |
 |---|---|
 | **SwitchLingo** · [live demo](https://msthai-switchlingo.hf.space) | AI video translation: subtitles + voice-over that keeps the speaker's voice, 400+ languages (MADLAD-400), community-corrected translations, focus on underserved languages like Lao, Isan and Hmong |
+| **WipeMyBills** · [live web app](https://wipemybills.pages.dev) | Verified working people list bills, donors pay the biller directly. One Expo codebase for iOS, Android and web, Supabase backend, AI request reviewer, Stripe payments, 50-state rules engine |
 | **THRESHOLD: Night Shift** | Mixed-reality horror game for Meta Quest 3, built with an automated freeze-gate test so no release ships with a stall |
 
 ### 🤖 AI agents & automation
