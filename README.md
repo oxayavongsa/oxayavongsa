@@ -53,6 +53,22 @@ I build AI agents and machine-learning systems that do real operational work: re
 
 <sub>📚 Full index of every project, including archived coursework: [**projects**](https://github.com/oxayavongsa/projects)</sub>
 
+### 📈 GitHub activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=oxayavongsa&show_icons=true&hide_border=true&theme=tokyonight&title_color=14B8A6&icon_color=14B8A6&count_private=true" />
+<img height="165" src="https://streak-stats.demolab.com?user=oxayavongsa&hide_border=true&theme=tokyonight&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=oxayavongsa&theme=tokyo-night&hide_border=true&color=14B8A6&line=14B8A6&point=ffffff&area=true" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oxayavongsa/oxayavongsa/output/snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/oxayavongsa/oxayavongsa/output/snake.svg" />
+</picture>
+
+</div>
+
 ### 🧰 Stack
 
 <img src="https://skillicons.dev/icons?i=py,js,html,css,nodejs,aws,tensorflow,pytorch,sklearn,git,github,vscode&theme=dark" />
