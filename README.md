@@ -19,7 +19,7 @@ I build AI agents and machine-learning systems that do real operational work: re
 | **SwitchLingo** · [live demo](https://msthai-switchlingo.hf.space) | AI video translation: subtitles + voice-over that keeps the speaker's voice, 400+ languages (MADLAD-400), community-corrected translations, focus on underserved languages like Lao, Isan and Hmong |
 | **WipeMyBills** · [live web app](https://wipemybills.pages.dev) | Verified working people list bills, donors pay the biller directly. One Expo codebase for iOS, Android and web, Supabase backend, AI request reviewer, Stripe payments, 50-state rules engine |
 | **Lazy Accounting** · [lazyaccounting.com](https://lazyaccounting.com) | Free, open-source bookkeeping for freelancers and small businesses: Plaid bank sync, AI categorizing, receipts, GPS mileage, invoices, payroll, 1099s, live Schedule C and quarterly tax estimates, 12 industry-ready charts of accounts |
-| [**THRESHOLD: Night Shift**](https://github.com/oxayavongsa/threshold-night-shift) | Mixed-reality horror game for Meta Quest 3, built with an automated freeze-gate test so no release ships with a stall |
+| **THRESHOLD: Night Shift** · [play free in browser](https://threshold-night-shift.pages.dev) | Mixed-reality horror game for Meta Quest 3, built with an automated freeze-gate test so no release ships with a stall |
 
 ### 🤖 AI agents & automation
 
