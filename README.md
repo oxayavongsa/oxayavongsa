@@ -12,13 +12,21 @@ I build AI agents and machine-learning systems that do real operational work: re
 
 </div>
 
+### 🌌 Novard.ai · Nova R&D Labs
+
+My AI research and product studio. Novard turns real business problems into shipped software, and is working toward a bigger goal: **one shared multimodal robot brain** for general-purpose humanoid robots, with add-on skill packs (cooking, cleaning, gardening, elder care) instead of single-trick machines.
+
+- **Now:** AI agents, translation, fintech and accounting products, all live below
+- **Next:** robot software built on ROS 2 and vision-language models
+- **Site:** full launch at [novard.ai](https://www.novard.ai) in January 2027
+
 ### 🚧 Building now
 
 | Project | Highlights |
 |---|---|
 | **SwitchLingo** · [live demo](https://msthai-switchlingo.hf.space) | AI video translation: subtitles + voice-over that keeps the speaker's voice, 400+ languages (MADLAD-400), community-corrected translations, focus on underserved languages like Lao, Isan and Hmong |
 | **WipeMyBills** · [live web app](https://wipemybills.pages.dev) | Verified working people list bills, donors pay the biller directly. One Expo codebase for iOS, Android and web, Supabase backend, AI request reviewer, Stripe payments, 50-state rules engine |
-| **Lazy Accounting** · [lazyaccounting.com](https://lazyaccounting.com) | Free, open-source bookkeeping for freelancers and small businesses: Plaid bank sync, AI categorizing, receipts, GPS mileage, invoices, payroll, 1099s, live Schedule C and quarterly tax estimates, 12 industry-ready charts of accounts |
+| **Lazy Accounting** · [lazyaccounting.com](https://lazyaccounting.com) · [open-source core](https://github.com/oxayavongsa/lazy-accounting-core) | Free, open-source bookkeeping for freelancers and small businesses: Plaid bank sync, AI categorizing, receipts, GPS mileage, invoices, payroll, 1099s, live Schedule C and quarterly tax estimates, 12 industry-ready charts of accounts |
 | **THRESHOLD: Night Shift** · [play free in browser](https://threshold-night-shift.pages.dev) | Mixed-reality horror game for Meta Quest 3, built with an automated freeze-gate test so no release ships with a stall |
 
 ### 🤖 AI agents & automation
@@ -58,7 +66,6 @@ I build AI agents and machine-learning systems that do real operational work: re
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=oxayavongsa&show_icons=true&hide_border=true&theme=tokyonight&title_color=14B8A6&icon_color=14B8A6&count_private=true" />
 <img height="165" src="https://streak-stats.demolab.com?user=oxayavongsa&hide_border=true&theme=tokyonight&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=oxayavongsa&theme=tokyo-night&hide_border=true&color=14B8A6&line=14B8A6&point=ffffff&area=true" />
@@ -76,4 +83,4 @@ I build AI agents and machine-learning systems that do real operational work: re
 
 <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/MCP-000000?style=flat-square" /> <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/SageMaker-FF9900?style=flat-square&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" /> <img src="https://img.shields.io/badge/QuickBooks-2CA01C?style=flat-square&logo=quickbooks&logoColor=white" /> <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white" />
 
-📫 **Open to remote AI/ML, automation, and payroll-tech roles.**
+📫 **Open to AI/ML and automation roles, partnerships, and investor conversations.** Reach me on [LinkedIn](https://www.linkedin.com/in/oxayavongsa) or at [novard.ai](https://www.novard.ai).
