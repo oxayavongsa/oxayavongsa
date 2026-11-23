@@ -25,7 +25,7 @@ My AI research and product studio. Novard turns real business problems into ship
 | Project | Highlights |
 |---|---|
 | **SwitchLingo** · [live demo](https://msthai-switchlingo.hf.space) | AI video translation: subtitles + voice-over that keeps the speaker's voice, 400+ languages (MADLAD-400), community-corrected translations, focus on underserved languages like Lao, Isan and Hmong |
-| **WipeMyBills** · [live web app](https://wipemybills.pages.dev) | Verified working people list bills, donors pay the biller directly. One Expo codebase for iOS, Android and web, Supabase backend, AI request reviewer, Stripe payments, 50-state rules engine |
+| **WipeMyBills** · [wipemybills.com](https://wipemybills.com) · [code](https://github.com/oxayavongsa/wipe-my-bills-app) | Verified working people list bills, donors pay the biller directly. One Expo codebase for iOS, Android and web, Supabase backend, AI request reviewer, Stripe payments, 50-state rules engine |
 | **Lazy Accounting** · [lazyaccounting.com](https://lazyaccounting.com) · [open-source core](https://github.com/oxayavongsa/lazy-accounting-core) | Free, open-source bookkeeping for freelancers and small businesses: Plaid bank sync, AI categorizing, receipts, GPS mileage, invoices, payroll, 1099s, live Schedule C and quarterly tax estimates, 12 industry-ready charts of accounts |
 | **THRESHOLD: Night Shift** · [play free in browser](https://threshold-night-shift.pages.dev) | Mixed-reality horror game for Meta Quest 3, built with an automated freeze-gate test so no release ships with a stall |
 
