@@ -14,17 +14,16 @@ I build AI agents and machine-learning systems that do real operational work: re
 
 ### 🌌 Novard.ai · Nova R&D Labs
 
-My AI research and product studio. Novard turns real business problems into shipped software, and is working toward a bigger goal: **one shared multimodal robot brain** for general-purpose humanoid robots, with add-on skill packs (cooking, cleaning, gardening, elder care) instead of single-trick machines.
+My applied AI studio. Novard turns real business problems into shipped software: AI agents, video translation, and bookkeeping and payroll tools for small businesses.
 
-- **Now:** AI agents, translation, fintech and accounting products, all live below
-- **Next:** robot software built on ROS 2 and vision-language models
-- **Site:** full launch at [novard.ai](https://www.novard.ai) in January 2027
+- **Live now:** SwitchLingo, Lazy Accounting, WipeMyBills (waitlist) and the AI agents below
+- **Site:** [novard.ai](https://www.novard.ai)
 
 ### 🚧 Building now
 
 | Project | Highlights |
 |---|---|
-| **SwitchLingo** · [switchlingo.ai](https://switchlingo.ai) · [overview](https://github.com/oxayavongsa/switchlingo.ai) | AI video translation: subtitles + voice-over that keeps the speaker's voice, 400+ languages (MADLAD-400), community-corrected translations, focus on underserved languages like Lao, Isan and Hmong |
+| **SwitchLingo** · [switchlingo.ai](https://switchlingo.ai) · [overview](https://github.com/oxayavongsa/switchlingo.ai) | AI video translation: subtitles + voice-over that keeps the speaker's voice, 108 languages, community-corrected translations, focus on underserved languages like Lao, Isan and Hmong |
 | **WipeMyBills** · [wipemybills.com](https://wipemybills.com) · [code](https://github.com/oxayavongsa/wipe-my-bills-app) | Verified working people list bills, donors pay the biller directly. One Expo codebase for iOS, Android and web, Supabase backend, AI request reviewer, Stripe payments, 50-state rules engine |
 | **Lazy Accounting** · [lazyaccounting.com](https://lazyaccounting.com) · [open-source core](https://github.com/oxayavongsa/lazy-accounting-core) | Free, open-source bookkeeping for freelancers and small businesses: Plaid bank sync, AI categorizing, receipts, GPS mileage, invoices, payroll, 1099s, live Schedule C and quarterly tax estimates, 12 industry-ready charts of accounts |
 | **THRESHOLD: Night Shift** · [play free in browser](https://threshold-night-shift.pages.dev) | Mixed-reality horror game for Meta Quest 3, built with an automated freeze-gate test so no release ships with a stall |
